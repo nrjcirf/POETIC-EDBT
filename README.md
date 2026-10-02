@@ -4,7 +4,9 @@
 > In compliance with the EDBT double-blind review and reproducibility guidelines, all author-identifying metadata has been sanitized. This repository contains the complete implementation, baseline models, adversarial attack simulations, and automated benchmark pipelines for **POETIC**.
 
 ---
-There are two parts of the truncated dataset used for validation.
+There are two parts of the truncated dataset used for validation. The complete preprocessing can be obtained from the following link 
+通过网盘分享的文件：processed_nyc_with_grid.parquet等2个文件
+链接: https://pan.baidu.com/s/1clX8ubn4yW4h3nEXhehGZw?pwd=457i 提取码: 457i
 
 ## 📖 Overview
 
