@@ -4,6 +4,7 @@
 > In compliance with the EDBT double-blind review and reproducibility guidelines, all author-identifying metadata has been sanitized. This repository contains the complete implementation, baseline models, adversarial attack simulations, and automated benchmark pipelines for **POETIC**.
 
 ---
+There are two parts of the truncated dataset used for validation.
 
 ## 📖 Overview
 
