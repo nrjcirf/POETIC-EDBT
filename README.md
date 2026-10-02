@@ -51,7 +51,6 @@ In dynamic spatial crowdsourcing (SC) environments, platforms face a fundamental
 │   └── visualization.py           # Core plotting utilities
 │
 └── data/                          # Dataset preprocessing & sample records
-    ├── process_nyc.py             # NYC Taxi data preprocessor
     ├── preprocess_tdrive.py       # Beijing T-Drive trajectory preprocessor
     └── (processed data files)     # Parquet/PKL files for spatial grids and context maps
 ```
